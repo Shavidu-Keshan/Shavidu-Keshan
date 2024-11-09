@@ -1,7 +1,6 @@
 # 👋 Hi, I’m @Shavidu-Keshan
 
 - 👀 I’m interested in **Backend & Frontend Development**, solving complex problems, and creating efficient and scalable applications.
-- 🌱 I’m currently learning **React**, **Next.js**, **Flutter**, **Dart**, **TypeScript**, **JavaScript**, **Tailwind CSS**, **MongoDB**, **Firebase**, **Appwrite**, **MySQL**, and **Java**.
 - 💞️ I’m looking to collaborate on projects involving **web development** and **full-stack solutions**.
 - 📫 How to reach me: You can reach out via [LinkedIn](https://www.linkedin.com/in/shavidu-keshan-0737412b4/).
 - ⚡ Fun fact: I'm passionate about learning new technologies and building things that improve user experiences!
@@ -70,7 +69,7 @@
   </a>
 </div>
 
-## My Animated Tech Stack Icons
+
 
 <!-- Add this CSS to your profile to make icons animated on hover -->
 <style>
@@ -84,6 +83,11 @@
     cursor: pointer;
   }
 </style>
+<head>
+  <!-- Add this in your HTML (GitHub README supports this in the HTML portion) -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+</head>
+
 
 
 <!--- Add this section to your GitHub profile README for better visualization --->
